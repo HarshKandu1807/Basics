@@ -1,0 +1,7 @@
+C:\Users\Nimap\source\repos\Timespan\bin\Debug\Timespan.exe.config
+C:\Users\Nimap\source\repos\Timespan\bin\Debug\Timespan.exe
+C:\Users\Nimap\source\repos\Timespan\bin\Debug\Timespan.pdb
+C:\Users\Nimap\source\repos\Timespan\obj\Debug\Timespan.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\Timespan\obj\Debug\Timespan.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\Timespan\obj\Debug\Timespan.exe
+C:\Users\Nimap\source\repos\Timespan\obj\Debug\Timespan.pdb

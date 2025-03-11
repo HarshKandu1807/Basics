@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nimap\\source\\repos\\Classes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{425A9C63-3810-4E16-BFF4-19A5762001AE}|Classes.csproj|c:\\users\\nimap\\source\\repos\\classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{425A9C63-3810-4E16-BFF4-19A5762001AE}|Classes.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425A9C63-3810-4E16-BFF4-19A5762001AE}|Classes.csproj|c:\\users\\nimap\\source\\repos\\classes\\addition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{425A9C63-3810-4E16-BFF4-19A5762001AE}|Classes.csproj|solutionrelative:addition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425A9C63-3810-4E16-BFF4-19A5762001AE}|Classes.csproj|c:\\users\\nimap\\source\\repos\\classes\\subtract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{425A9C63-3810-4E16-BFF4-19A5762001AE}|Classes.csproj|solutionrelative:subtract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425A9C63-3810-4E16-BFF4-19A5762001AE}|Classes.csproj|c:\\users\\nimap\\source\\repos\\classes\\multiply\\mul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{425A9C63-3810-4E16-BFF4-19A5762001AE}|Classes.csproj|solutionrelative:multiply\\mul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425A9C63-3810-4E16-BFF4-19A5762001AE}|Classes.csproj|c:\\users\\nimap\\source\\repos\\classes\\multiply\\division.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{425A9C63-3810-4E16-BFF4-19A5762001AE}|Classes.csproj|solutionrelative:multiply\\division.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Subtract.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\Classes\\Subtract.cs",
+              "RelativeDocumentMoniker": "Subtract.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\Classes\\Subtract.cs",
+              "RelativeToolTip": "Subtract.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T11:12:29.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Division.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\Classes\\Multiply\\Division.cs",
+              "RelativeDocumentMoniker": "Multiply\\Division.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\Classes\\Multiply\\Division.cs",
+              "RelativeToolTip": "Multiply\\Division.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T10:53:49.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mul.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\Classes\\Multiply\\Mul.cs",
+              "RelativeDocumentMoniker": "Multiply\\Mul.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\Classes\\Multiply\\Mul.cs",
+              "RelativeToolTip": "Multiply\\Mul.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T10:47:48.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Addition.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\Classes\\Addition.cs",
+              "RelativeDocumentMoniker": "Addition.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\Classes\\Addition.cs",
+              "RelativeToolTip": "Addition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T10:46:36.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\Classes\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\Classes\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwBAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T10:37:38.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

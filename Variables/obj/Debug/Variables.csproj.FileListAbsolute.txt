@@ -1,0 +1,7 @@
+C:\Users\Nimap\source\repos\Variables\bin\Debug\Variables.exe.config
+C:\Users\Nimap\source\repos\Variables\bin\Debug\Variables.exe
+C:\Users\Nimap\source\repos\Variables\bin\Debug\Variables.pdb
+C:\Users\Nimap\source\repos\Variables\obj\Debug\Variables.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\Variables\obj\Debug\Variables.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\Variables\obj\Debug\Variables.exe
+C:\Users\Nimap\source\repos\Variables\obj\Debug\Variables.pdb

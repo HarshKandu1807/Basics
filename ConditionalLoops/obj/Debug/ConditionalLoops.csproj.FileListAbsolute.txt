@@ -1,0 +1,7 @@
+C:\Users\Nimap\source\repos\ConditionalLoops\bin\Debug\ConditionalLoops.exe.config
+C:\Users\Nimap\source\repos\ConditionalLoops\bin\Debug\ConditionalLoops.exe
+C:\Users\Nimap\source\repos\ConditionalLoops\bin\Debug\ConditionalLoops.pdb
+C:\Users\Nimap\source\repos\ConditionalLoops\obj\Debug\ConditionalLoops.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\ConditionalLoops\obj\Debug\ConditionalLoops.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\ConditionalLoops\obj\Debug\ConditionalLoops.exe
+C:\Users\Nimap\source\repos\ConditionalLoops\obj\Debug\ConditionalLoops.pdb

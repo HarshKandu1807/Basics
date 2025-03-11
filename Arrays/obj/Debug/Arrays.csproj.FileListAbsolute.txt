@@ -1,0 +1,7 @@
+C:\Users\Nimap\source\repos\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\Nimap\source\repos\Arrays\bin\Debug\Arrays.exe
+C:\Users\Nimap\source\repos\Arrays\bin\Debug\Arrays.pdb
+C:\Users\Nimap\source\repos\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\Arrays\obj\Debug\Arrays.exe
+C:\Users\Nimap\source\repos\Arrays\obj\Debug\Arrays.pdb

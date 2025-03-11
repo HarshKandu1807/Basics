@@ -1,0 +1,7 @@
+C:\Users\Nimap\source\repos\ForLoops\bin\Debug\ForLoops.exe.config
+C:\Users\Nimap\source\repos\ForLoops\bin\Debug\ForLoops.exe
+C:\Users\Nimap\source\repos\ForLoops\bin\Debug\ForLoops.pdb
+C:\Users\Nimap\source\repos\ForLoops\obj\Debug\ForLoops.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\ForLoops\obj\Debug\ForLoops.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\ForLoops\obj\Debug\ForLoops.exe
+C:\Users\Nimap\source\repos\ForLoops\obj\Debug\ForLoops.pdb

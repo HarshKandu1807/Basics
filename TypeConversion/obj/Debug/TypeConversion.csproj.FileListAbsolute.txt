@@ -1,0 +1,7 @@
+C:\Users\Nimap\source\repos\TypeConversion\bin\Debug\TypeConversion.exe.config
+C:\Users\Nimap\source\repos\TypeConversion\bin\Debug\TypeConversion.exe
+C:\Users\Nimap\source\repos\TypeConversion\bin\Debug\TypeConversion.pdb
+C:\Users\Nimap\source\repos\TypeConversion\obj\Debug\TypeConversion.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\TypeConversion\obj\Debug\TypeConversion.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\TypeConversion\obj\Debug\TypeConversion.exe
+C:\Users\Nimap\source\repos\TypeConversion\obj\Debug\TypeConversion.pdb

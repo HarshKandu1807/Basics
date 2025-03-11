@@ -1,0 +1,7 @@
+C:\Users\Nimap\source\repos\Strings2\bin\Debug\Strings2.exe.config
+C:\Users\Nimap\source\repos\Strings2\bin\Debug\Strings2.exe
+C:\Users\Nimap\source\repos\Strings2\bin\Debug\Strings2.pdb
+C:\Users\Nimap\source\repos\Strings2\obj\Debug\Strings2.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\Strings2\obj\Debug\Strings2.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\Strings2\obj\Debug\Strings2.exe
+C:\Users\Nimap\source\repos\Strings2\obj\Debug\Strings2.pdb

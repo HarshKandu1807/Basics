@@ -1,0 +1,7 @@
+C:\Users\Nimap\source\repos\List\bin\Debug\List.exe.config
+C:\Users\Nimap\source\repos\List\bin\Debug\List.exe
+C:\Users\Nimap\source\repos\List\bin\Debug\List.pdb
+C:\Users\Nimap\source\repos\List\obj\Debug\List.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\List\obj\Debug\List.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\List\obj\Debug\List.exe
+C:\Users\Nimap\source\repos\List\obj\Debug\List.pdb

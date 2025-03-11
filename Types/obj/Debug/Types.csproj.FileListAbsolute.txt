@@ -1,0 +1,7 @@
+C:\Users\Nimap\source\repos\Types\bin\Debug\Types.exe.config
+C:\Users\Nimap\source\repos\Types\bin\Debug\Types.exe
+C:\Users\Nimap\source\repos\Types\bin\Debug\Types.pdb
+C:\Users\Nimap\source\repos\Types\obj\Debug\Types.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\Types\obj\Debug\Types.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\Types\obj\Debug\Types.exe
+C:\Users\Nimap\source\repos\Types\obj\Debug\Types.pdb
