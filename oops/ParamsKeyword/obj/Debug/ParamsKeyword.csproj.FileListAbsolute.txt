@@ -1,0 +1,7 @@
+C:\Users\Nimap\source\repos\ParamsKeyword\bin\Debug\ParamsKeyword.exe.config
+C:\Users\Nimap\source\repos\ParamsKeyword\bin\Debug\ParamsKeyword.exe
+C:\Users\Nimap\source\repos\ParamsKeyword\bin\Debug\ParamsKeyword.pdb
+C:\Users\Nimap\source\repos\ParamsKeyword\obj\Debug\ParamsKeyword.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\ParamsKeyword\obj\Debug\ParamsKeyword.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\ParamsKeyword\obj\Debug\ParamsKeyword.exe
+C:\Users\Nimap\source\repos\ParamsKeyword\obj\Debug\ParamsKeyword.pdb

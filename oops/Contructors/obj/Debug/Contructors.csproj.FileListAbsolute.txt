@@ -1,0 +1,7 @@
+C:\Users\Nimap\source\repos\Contructors\bin\Debug\Contructors.exe.config
+C:\Users\Nimap\source\repos\Contructors\bin\Debug\Contructors.exe
+C:\Users\Nimap\source\repos\Contructors\bin\Debug\Contructors.pdb
+C:\Users\Nimap\source\repos\Contructors\obj\Debug\Contructors.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\Contructors\obj\Debug\Contructors.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\Contructors\obj\Debug\Contructors.exe
+C:\Users\Nimap\source\repos\Contructors\obj\Debug\Contructors.pdb

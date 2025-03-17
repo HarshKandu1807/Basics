@@ -1,0 +1,14 @@
+C:\Users\Nimap\source\repos\Excercise2\bin\Debug\Excercise2.exe.config
+C:\Users\Nimap\source\repos\Excercise2\bin\Debug\Excercise2.exe
+C:\Users\Nimap\source\repos\Excercise2\bin\Debug\Excercise2.pdb
+C:\Users\Nimap\source\repos\Excercise2\obj\Debug\Excercise2.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\Excercise2\obj\Debug\Excercise2.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\Excercise2\obj\Debug\Excercise2.exe
+C:\Users\Nimap\source\repos\Excercise2\obj\Debug\Excercise2.pdb
+C:\Users\Nimap\source\repos\oops\Excercise2\bin\Debug\Excercise2.exe.config
+C:\Users\Nimap\source\repos\oops\Excercise2\bin\Debug\Excercise2.exe
+C:\Users\Nimap\source\repos\oops\Excercise2\bin\Debug\Excercise2.pdb
+C:\Users\Nimap\source\repos\oops\Excercise2\obj\Debug\Excercise2.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\oops\Excercise2\obj\Debug\Excercise2.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\oops\Excercise2\obj\Debug\Excercise2.exe
+C:\Users\Nimap\source\repos\oops\Excercise2\obj\Debug\Excercise2.pdb

@@ -1,0 +1,7 @@
+C:\Users\Nimap\source\repos\Exceptions\obj\Debug\Exceptions.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\Exceptions\bin\Debug\Exceptions.exe.config
+C:\Users\Nimap\source\repos\Exceptions\bin\Debug\Exceptions.exe
+C:\Users\Nimap\source\repos\Exceptions\bin\Debug\Exceptions.pdb
+C:\Users\Nimap\source\repos\Exceptions\obj\Debug\Exceptions.exe
+C:\Users\Nimap\source\repos\Exceptions\obj\Debug\Exceptions.pdb
