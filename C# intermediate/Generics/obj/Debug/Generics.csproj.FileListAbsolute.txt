@@ -1,0 +1,7 @@
+C:\Users\Nimap\source\repos\Generics\bin\Debug\Generics.exe.config
+C:\Users\Nimap\source\repos\Generics\bin\Debug\Generics.exe
+C:\Users\Nimap\source\repos\Generics\bin\Debug\Generics.pdb
+C:\Users\Nimap\source\repos\Generics\obj\Debug\Generics.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\Generics\obj\Debug\Generics.exe
+C:\Users\Nimap\source\repos\Generics\obj\Debug\Generics.pdb

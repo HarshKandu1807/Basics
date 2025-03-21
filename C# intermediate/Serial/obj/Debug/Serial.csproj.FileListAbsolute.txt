@@ -1,0 +1,10 @@
+C:\Users\Nimap\source\repos\Serial\bin\Debug\Serial.exe.config
+C:\Users\Nimap\source\repos\Serial\bin\Debug\Serial.exe
+C:\Users\Nimap\source\repos\Serial\bin\Debug\Serial.pdb
+C:\Users\Nimap\source\repos\Serial\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nimap\source\repos\Serial\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nimap\source\repos\Serial\obj\Debug\Serial.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\Serial\obj\Debug\Serial.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\Serial\obj\Debug\Serial.csproj.Up2Date
+C:\Users\Nimap\source\repos\Serial\obj\Debug\Serial.exe
+C:\Users\Nimap\source\repos\Serial\obj\Debug\Serial.pdb

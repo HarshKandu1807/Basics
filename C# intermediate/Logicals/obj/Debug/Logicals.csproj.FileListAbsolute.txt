@@ -1,0 +1,7 @@
+C:\Users\Nimap\source\repos\Logicals\bin\Debug\Logicals.exe.config
+C:\Users\Nimap\source\repos\Logicals\bin\Debug\Logicals.exe
+C:\Users\Nimap\source\repos\Logicals\bin\Debug\Logicals.pdb
+C:\Users\Nimap\source\repos\Logicals\obj\Debug\Logicals.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\Logicals\obj\Debug\Logicals.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\Logicals\obj\Debug\Logicals.exe
+C:\Users\Nimap\source\repos\Logicals\obj\Debug\Logicals.pdb
