@@ -1,0 +1,7 @@
+C:\Users\Nimap\source\repos\TPL\bin\Debug\TPL.exe.config
+C:\Users\Nimap\source\repos\TPL\bin\Debug\TPL.exe
+C:\Users\Nimap\source\repos\TPL\bin\Debug\TPL.pdb
+C:\Users\Nimap\source\repos\TPL\obj\Debug\TPL.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\TPL\obj\Debug\TPL.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\TPL\obj\Debug\TPL.exe
+C:\Users\Nimap\source\repos\TPL\obj\Debug\TPL.pdb

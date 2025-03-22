@@ -1,0 +1,7 @@
+C:\Users\Nimap\source\repos\out&ref\bin\Debug\out&ref.exe.config
+C:\Users\Nimap\source\repos\out&ref\bin\Debug\out&ref.exe
+C:\Users\Nimap\source\repos\out&ref\bin\Debug\out&ref.pdb
+C:\Users\Nimap\source\repos\out&ref\obj\Debug\out&ref.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\out&ref\obj\Debug\out&ref.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\out&ref\obj\Debug\out&ref.exe
+C:\Users\Nimap\source\repos\out&ref\obj\Debug\out&ref.pdb
