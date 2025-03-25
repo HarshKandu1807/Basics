@@ -1,0 +1,7 @@
+C:\Users\Nimap\source\repos\InnerException\bin\Debug\InnerException.exe.config
+C:\Users\Nimap\source\repos\InnerException\bin\Debug\InnerException.exe
+C:\Users\Nimap\source\repos\InnerException\bin\Debug\InnerException.pdb
+C:\Users\Nimap\source\repos\InnerException\obj\Debug\InnerException.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\InnerException\obj\Debug\InnerException.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\InnerException\obj\Debug\InnerException.exe
+C:\Users\Nimap\source\repos\InnerException\obj\Debug\InnerException.pdb

@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Nimap\\source\\repos\\Serial\\",
+  "WorkspaceRootPath": "C:\\Users\\Nimap\\source\\repos\\C# Basics\\C# intermediate\\Serial\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BCA40334-81EE-4FCF-B639-AEE14936CB58}|Serial.csproj|c:\\users\\nimap\\source\\repos\\serial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BCA40334-81EE-4FCF-B639-AEE14936CB58}|Serial.csproj|c:\\users\\nimap\\source\\repos\\c# basics\\c# intermediate\\serial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BCA40334-81EE-4FCF-B639-AEE14936CB58}|Serial.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\Serial\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\C# Basics\\C# intermediate\\Serial\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\Serial\\Program.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\C# Basics\\C# intermediate\\Serial\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwBwAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-20T04:59:39.16Z",
               "EditorCaption": ""
